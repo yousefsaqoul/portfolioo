@@ -72,9 +72,9 @@
   
   .header img {
     position: absolute;
-    right: -5%;
+    right: 15%;
     bottom: 0;
-    width: 100rem;
+    width: 50rem;
     z-index: -1;
   }
   
@@ -84,7 +84,7 @@
     }
   
     .header img {
-      width: 50rem;
+      width: 30rem;
     }
   }
   
@@ -100,7 +100,7 @@
     }
   
     .header img {
-      width: 35rem;
+      width: 25rem;
     }
   }
   
